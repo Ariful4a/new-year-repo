@@ -33,9 +33,6 @@ line-height: 95px;
     color: #F00;
     font-family: Inter;
     font-weight: 700;
-    line-height: normal;
-    font-style: normal;
-    
 }
 .font-stl{
     color: #F00;
@@ -74,23 +71,26 @@ line-height: 30px;
 .invite{
 color: #f3efef;
 text-align: center;
-font-family: Inter;
-font-size: 20px;
-font-style: normal;
 font-weight: 700;
-line-height: normal;
-text-transform: uppercase;
-padding: 0px 1000px 0px 158px;
+padding: 0px 800px 0px 158px;
+
 }
 .pic{
     background-image: url('../resources/v.img.png');
-    width: 1320px;
+    width: 1100px;
     height: 600px;
     border: 16px;
     background-repeat: no-repeat;
     background-position: center;
-    padding: 48px 48px ;
+    padding: 0px 48px 0px 48px;
+    margin: 0px auto;
+    
+
    
 
     
+}
+.pic-content{
+    padding: 10px 10px 250px 250px;
+    justify-content: right;
 }
