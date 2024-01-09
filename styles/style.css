@@ -147,3 +147,49 @@ text-transform: uppercase;
     margin-top: 40px;
     margin-bottom: 20px;
 }
+
+
+
+.coming h1{
+    color: #F00;
+    
+
+}
+.testing{
+    text-align: right;
+    padding-right: 250px;
+    padding-top: 200px;
+    
+}
+.paz{
+    text-align: right;
+    padding-right: 150px;
+    
+}
+.coming{
+    
+    background-repeat: no-repeat;
+    background-color: rgb(236, 234, 231);
+    justify-content: center;
+    margin-top: 48px;
+    margin-right: 48px;
+    margin-left: 48px;
+    margin-bottom: 48px;
+
+    padding-bottom: 200px;
+    background-image: url('../resources/Ellipse\ 1.png');
+    background-position: center;
+}
+div .coming H3{
+    color: #F00;
+
+   
+}
+.vv{
+   
+    justify-content: space-between;
+    padding-left: 800px;
+}
+.ccoment{
+    padding: 30px 30px 30px 30px;
+}
