@@ -1,29 +1,33 @@
-.nw{
+.hedr{
 color: #15f546;
 text-align: center;
 font-size: 32px;
 font-style: normal;
 line-height: normal;
+padding-top: 150px;
 font-family: Merriweather;
-}
-.padding{
-    padding: 177px 531px 383px 530px;
+font-weight: 400;
+
 }
 
 .tw{
 color: #1515f5e1;
 text-align: center;
 font-family: Merriweather;
-font-size: 60px;
+font-size: 72px;
 font-style: normal;
 font-weight: 900;
-line-height: 95px;
+line-height: 95px; 
+
+
 }
 .bener{
     background-image: url('../resources/bener.png.png');
     width: 1320px;
     height: 600px;
     border: 16px;
+    
+    
     
 }
 .new-year{
@@ -179,6 +183,8 @@ text-transform: uppercase;
     padding-bottom: 200px;
     background-image: url('../resources/Ellipse\ 1.png');
     background-position: center;
+    background-size: 250px;
+    
 }
 div .coming H3{
     color: #F00;
@@ -192,4 +198,107 @@ div .coming H3{
 }
 .ccoment{
     padding: 30px 30px 30px 30px;
+}
+.continar{
+    text-align: center;
+    justify-content: space-between;
+    background-size: 600px;
+    padding-bottom: 0px;
+}
+.saport{
+    font-size: 72px;
+}
+.zx{
+    color: #F00;
+}
+.continar h4{
+    gap: 3px;
+
+}
+.gy{
+    background-color: antiquewhite;
+    margin: 40px 40px 40px 40px;
+    
+}
+.hhf{
+    justify-content: space-between;
+    width: 200px;
+    height: 180px;
+    padding-left: 700px;
+}
+.hff{
+    
+    justify-content: space-between;
+    width: 200px;
+    height: 180px;
+    padding-left: 500px;
+    padding-top: 0px;
+    padding-bottom: 100px;
+
+}
+.nnm{
+    width: 1180px;
+    height: 200px;
+    
+}
+.yy{
+    width: 300px;
+    height: 300px;
+    justify-content: left;
+    padding-right: 700px;
+   
+    padding-bottom: 150px;
+}
+.best{
+    margin: 40px 40px 40px 40px;
+    padding-left: 30px;
+    width: 424px;
+    height: 450px;
+    flex-shrink: 0;
+    
+
+    
+    
+
+}
+.mmm{color: #F00;}
+.photo-section{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    
+}
+.sec{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    margin-bottom: 60px;
+
+}
+.ime{
+    padding-left: 550px;
+
+}
+.stld{
+    text-align: center;
+    width: 1320px;
+    height: 616px;
+    flex-shrink: 0;
+    font-size: 60px;
+   
+}
+.con-stl{
+    text-align: center;
+    width: 1320px;
+    height: 616px;
+    padding-bottom: 200px;
+}
+.backra{
+    background-color: antiquewhite;
+}
+.subscribes-button{
+    text-decoration: overline;
+    align-items: center;
+    padding-left: 700px;
+    margin-bottom: 48px;
 }
